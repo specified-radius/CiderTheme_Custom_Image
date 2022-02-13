@@ -1,5 +1,5 @@
 # Custom background image
-Originally named "weeb". Created by @booploops
+Originally named "weeb". Created by @booploops as a template.
 
 Not working?<br>
 Make sure to set the `Windows Background Style` to Artwork or Image
