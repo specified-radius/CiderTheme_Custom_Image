@@ -12,3 +12,6 @@ How to change the image?
   <LI>Reload</LI>
   <LI>Done</LI>
 </OL>
+<br>
+The default one is a gif of our waifu - Marin <br>
+![example](https://user-images.githubusercontent.com/79555466/154326594-e1b6102d-be7a-498b-a8df-77c2c2992b11.gif)
