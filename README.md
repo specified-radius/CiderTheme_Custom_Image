@@ -1,8 +1,8 @@
-# Custom background image
-Originally named "weeb". Created by @booploops as a template.
+<h1>Custom background image</h1>
+Originally named "weeb". Created by @booploops as a template.<br>
 
 Not working?<br>
-Make sure to set the `Windows Background Style` to Artwork or Image
+Make sure to set the `Windows Background Style` to Artwork or Image. <br>
 
 How to change the image?
 
@@ -12,6 +12,5 @@ How to change the image?
   <LI>Reload</LI>
   <LI>Done</LI>
 </OL>
-<br>
-The default one is a gif of our waifu - Marin <br>
-![example](https://user-images.githubusercontent.com/79555466/154326594-e1b6102d-be7a-498b-a8df-77c2c2992b11.gif)
+<h3>The default one is a gif of our waifu - Marin</h3>
+<img src="https://user-images.githubusercontent.com/79555466/154326594-e1b6102d-be7a-498b-a8df-77c2c2992b11.gif" alt="Example">
