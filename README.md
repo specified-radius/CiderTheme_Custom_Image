@@ -13,4 +13,4 @@ How to change the image?
   <LI>Done</LI>
 </OL>
 <h3>The default one is a gif of our waifu - Marin</h3>
-<img src="https://user-images.githubusercontent.com/79555466/154326594-e1b6102d-be7a-498b-a8df-77c2c2992b11.gif" alt="Example" style="max-width: 100%;">
+<img src="https://data.whicdn.com/images/223442286/original.gif" alt="Example" style="max-width: 100%;">
